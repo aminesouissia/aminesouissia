@@ -72,3 +72,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminesouissia&layout=compact&theme=radical)](https://github.com/aminesouissia/github-readme-stats)
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aminesouissia&theme=radical">
 
+![](https://visitor-badge.glitch.me/badge?page_id=aminesouissia.aminesouissia)
